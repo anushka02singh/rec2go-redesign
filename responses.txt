@@ -1,1 +1,96 @@
+persona1: REC2GO SURVEY v1
+year: First year
+freq: 1 to 2 times a week
+where: College Ave Gym; Cook/Douglass Rec Center
+do: Lift weights / fitness center; Pickup basketball or other open-court sports
+app: Yes, and I use it regularly
+entry: Member pass in the Rec2Go app
+uses: Showing my member pass at the entrance; Checking if a gym is open / hours
+r_pass: 1/5
+r_open: 2/5
+r_space: 1/5
+r_class: 2/5
+r_trust: 1/5
+surprise: A few times
+fail: (skipped)
+annoy: it takes forever to get the member pass
+wish: member pass
+else: (skipped)
+
+Rachel: 
+REC2GO SURVEY v1
+year: Graduate student
+freq: Rarely
+where: Sonny Werblin Rec Center (Busch); Cook/Douglass Rec Center
+do: Swimming
+app: No, never had it
+entry: Physical Rutgers ID card
+uses: I don’t use either
+r_pass: 3/5
+r_open: 4/5
+r_space: 1/5
+r_class: 3/5
+r_trust: (skipped)
+surprise: Never
+fail: I can see the classes, but can't sign up from the same page
+annoy: It s SO BUSY. And you can't tell which gym has which items (pool vs courts etc) quickly
+wish: Allow your pass to be displayed immediately on log in
+else: (skipped)
+Kate:
+REC2GO SURVEY v1
+year: Graduate student
+freq: Never
+where: None
+do: Something else
+app: No, never had it
+entry: Physical Rutgers ID card
+uses: I don’t use either
+r_pass: 3/5
+r_open: 3/5
+r_space: 3/5
+r_class: 3/5
+r_trust: 2/5
+surprise: Never
+fail: (skipped)
+annoy: (skipped)
+wish: (skipped)
+else: (skipped)
+Camille:
+REC2GO SURVEY v1
+year: Graduate student
+freq: Rarely
+where: Sonny Werblin Rec Center (Busch); Cook/Douglass Rec Center
+do: Cardio; Group fitness classes
+app: Yes, but I rarely open it
+entry: Physical Rutgers ID card
+uses: Checking if a gym is open / hours; Checking the group fitness class schedule
+r_pass: 1/5
+r_open: 5/5
+r_space: 1/5
+r_class: 1/5
+r_trust: 2/5
+surprise: A few times
+fail: 50/50 can't remember exactly but the website has half of the info I need so I go to the app to get the other half
+annoy: everything: Icons - too big and the words are too small Classes - If I want to find what fitness classes are happening, I only care about what location they are happening not where they are all happening on the app its under fitness so you need to know wtf SWRC and CAG mean - if you are new or have no context you are lost. After you click on a class gives you brief summary and upcoming times - if you are new - does not tell you what to bring if anything, do you need to sign in?, accessibility information (level of activity low to high; options of alternative positions), where exactly in the building is the class; it would be cool do add a class to your calendar other icons with low usage like social media wtf is that?
+wish: notify me when my class is happening, where, how to get there, nearest parking, how crowded
+else: check out the Rutgers marketing guide I swear to god there are more colors other than red and black
+Sumedha: 
+REC2GO SURVEY v1
+year: Graduate student
+freq: Never
+where: None
+do: Something else
+app: No, never had it
+entry: Physical Rutgers ID card
+uses: I don’t use either
+r_pass: 1/5
+r_open: 3/5
+r_space: 1/5
+r_class: 2/5
+r_trust: 2/5
+surprise: Never
+fail: (skipped)
+annoy: (skipped)
+wish: (skipped)
+else: (skipped)
 
